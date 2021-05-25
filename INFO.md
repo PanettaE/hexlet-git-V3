@@ -3,3 +3,4 @@ new line
 3
 test reset
 experiment with amend
+experiment with amend
