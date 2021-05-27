@@ -3,3 +3,4 @@ Hello, Hexlet! How are you?
 3
 experiment with amend
 experiment with amend
+new data
