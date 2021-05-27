@@ -4,3 +4,4 @@ Hello, Hexlet! How are you?
 experiment with amend
 experiment with amend
 new data
+new data
