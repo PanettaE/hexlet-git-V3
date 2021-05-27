@@ -4,3 +4,4 @@ new line
 test reset
 experiment with amend
 experiment with amend
+new data
